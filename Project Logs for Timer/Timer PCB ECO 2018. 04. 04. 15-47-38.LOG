@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C2 Old Footprint=RAD-0.3 New Footprint=AXIAL-0.5
+Change Component Comment : Designator=C2 Old Comment=Cap New Comment=330n
+Added Component: Designator=C1(RAD-0.3)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Member To Class: ClassName=timer Member=Component C1 100n
+Added Room: Name=timer

@@ -1,0 +1,6 @@
+Added Component: Designator=C2(AXIAL-0.3)
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=12V Pin=C2-2
+Added Member To Class: ClassName=timer Member=Component C1 100n
+Added Member To Class: ClassName=timer Member=Component C2 330n
+Added Room: Name=timer

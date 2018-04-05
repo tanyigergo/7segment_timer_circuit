@@ -1,0 +1,9 @@
+Added Component: Designator=LS1(Buzzer)
+Added Component: Designator=P1(SORKAPOCS-2)
+Added Pin To Net: NetName=BUZZER Pin=LS1-1
+Added Pin To Net: NetName=NetLS1_2 Pin=LS1-2
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=12V Pin=P1-2
+Added Member To Class: ClassName=timer Member=Component LS1 Buzzer
+Added Member To Class: ClassName=timer Member=Component P1 Header 2
+Added Room: Name=timer

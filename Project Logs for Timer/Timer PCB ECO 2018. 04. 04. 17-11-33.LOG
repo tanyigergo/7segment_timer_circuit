@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=LS1 Old Footprint=Buzzer New Footprint=ABSM-1574
+Change Component Footprint: Designator=S1 Old Footprint=Pushbutton New Footprint=Switch
+Change Component Footprint: Designator=S2 Old Footprint=Pushbutton New Footprint=Switch
+Change Component Footprint: Designator=S3 Old Footprint=Pushbutton New Footprint=Switch
+Change Component Footprint: Designator=S4 Old Footprint=Pushbutton New Footprint=Switch
+Change Component Footprint: Designator=S5 Old Footprint=Pushbutton New Footprint=Switch
+Change Component Footprint: Designator=P1 Old Footprint=SORKAPOCS-2 New Footprint=HDR1X2
+Added Component: Designator=C1(RAD-0.3)
+Added Component: Designator=C2(RAD-0.3)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=12V Pin=C2-2
+Added Pin To Net: NetName=BUZZER Pin=LS1-1A
+Added Pin To Net: NetName=NetLS1_2 Pin=LS1-2A
+Added Member To Class: ClassName=timer Member=Component C1 Cap
+Added Member To Class: ClassName=timer Member=Component C2 Cap
+Added Room: Name=timer
