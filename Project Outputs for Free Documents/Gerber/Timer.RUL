@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\Gergo\Documents\GitHub\tanyigergo.github.io\7segment_timer_circuit\Timer.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_pwr|Scope=Board|Minimum=31.50
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width_1|Scope=Board|Minimum=10.00

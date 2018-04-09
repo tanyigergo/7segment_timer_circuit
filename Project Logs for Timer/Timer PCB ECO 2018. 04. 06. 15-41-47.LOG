@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=RESTART Pin=U3-24
+Removed Pin From Net: NetName=RELAY Pin=U3-27
+Removed Pin From Net: NetName=BCD3_D Pin=U3-29
+Removed Pin From Net: NetName=BCD3_C Pin=U3-30
+Removed Pin From Net: NetName=BCD3_B Pin=U3-31
+Removed Pin From Net: NetName=BCD3_A Pin=U3-32
+Removed Pin From Net: NetName=BTN_START Pin=U3-33
+Removed Pin From Net: NetName=BTN3 Pin=U3-34
+Removed Pin From Net: NetName=BTN2 Pin=U3-35
+Removed Pin From Net: NetName=BTN1 Pin=U3-36
+Change Component Comment : Designator=C2 Old Comment=Cap New Comment=330n
+Change Component Comment : Designator=S1 Old Comment=FSM2JSMLS New Comment=Pushbutton
+Change Component Comment : Designator=S2 Old Comment=FSM2JSMLS New Comment=Pushbutton
+Change Component Comment : Designator=S3 Old Comment=FSM2JSMLS New Comment=Pushbutton
+Change Component Comment : Designator=S4 Old Comment=FSM2JSMLS New Comment=Pushbutton
+Change Component Comment : Designator=S5 Old Comment=FSM2JSMLS New Comment=Pushbutton
+Change Component Comment : Designator=P1 Old Comment=Header 2 New Comment=Sorkapocs 5mm
+Added Pin To Net: NetName=BTN1 Pin=U3-25
+Added Pin To Net: NetName=BTN2 Pin=U3-26
+Added Pin To Net: NetName=BTN3 Pin=U3-27
+Added Pin To Net: NetName=BTN_START Pin=U3-28
+Added Pin To Net: NetName=BCD3_A Pin=U3-29
+Added Pin To Net: NetName=BCD3_B Pin=U3-30
+Added Pin To Net: NetName=BCD3_C Pin=U3-31
+Added Pin To Net: NetName=BCD3_D Pin=U3-32
+Added Pin To Net: NetName=RELAY Pin=U3-34
+Added Pin To Net: NetName=RESTART Pin=U3-37

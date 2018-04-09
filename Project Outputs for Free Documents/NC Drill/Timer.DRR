@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Timer.PcbDoc   2018. 04. 06.  20:36:15
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Timer.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.635mm (25mil)                                           Round             40        PTH        167.64mm (6.60inch)
+T2      0.711mm (28mil)                                           Round             32        PTH        256.10mm (10.08inch)
+T3      0.762mm (30mil)                                           Round             48        PTH        279.24mm (10.99inch)
+T4      0.85mm (33mil)                                            Round             28        PTH        157.66mm (6.21inch)
+T5      0.9mm (35mil)                                             Round             48        PTH        238.11mm (9.37inch)
+T6      1.016mm (40mil)                                           Round             2         PTH        5.08mm (0.20inch)
+T7      1.1mm (43mil)                                             Round             3         PTH        5.08mm (0.20inch)
+T8      3.3mm (130mil)                                            Round             2         PTH        14.70mm (0.58inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              203
+
+Total Processing Time (hh:mm:ss) : 00:00:00

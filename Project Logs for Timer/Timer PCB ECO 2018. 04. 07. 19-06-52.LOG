@@ -1,0 +1,24 @@
+Added Component: Designator=U3(STM32 BLUE PILL)
+Added Pin To Net: NetName=BCD1_A Pin=U3-5
+Added Pin To Net: NetName=BCD1_B Pin=U3-6
+Added Pin To Net: NetName=BCD1_C Pin=U3-7
+Added Pin To Net: NetName=BCD1_D Pin=U3-8
+Added Pin To Net: NetName=BCD2_A Pin=U3-11
+Added Pin To Net: NetName=BCD2_B Pin=U3-12
+Added Pin To Net: NetName=BCD2_C Pin=U3-13
+Added Pin To Net: NetName=BCD2_D Pin=U3-14
+Added Pin To Net: NetName=BUZZER Pin=U3-15
+Added Pin To Net: NetName=DISPLAY_RESET Pin=U3-16
+Added Pin To Net: NetName=VCC Pin=U3-18
+Added Pin To Net: NetName=GND Pin=U3-19
+Added Pin To Net: NetName=BTN1 Pin=U3-25
+Added Pin To Net: NetName=BTN2 Pin=U3-26
+Added Pin To Net: NetName=BTN3 Pin=U3-27
+Added Pin To Net: NetName=BTN_START Pin=U3-28
+Added Pin To Net: NetName=BCD3_A Pin=U3-29
+Added Pin To Net: NetName=BCD3_B Pin=U3-30
+Added Pin To Net: NetName=BCD3_C Pin=U3-31
+Added Pin To Net: NetName=BCD3_D Pin=U3-32
+Added Pin To Net: NetName=RELAY Pin=U3-34
+Added Pin To Net: NetName=RESTART Pin=U3-37
+Added Member To Class: ClassName=timer Member=Component U3 STM32F103 breakout board

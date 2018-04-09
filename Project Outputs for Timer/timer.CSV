@@ -1,0 +1,17 @@
+"Bill of Material for "
+"On 2018. 04. 06. at 14:49:48"
+
+"Comment","Pattern","Quantity","Components"
+
+"100n","cap 100mil","7","C1, C3, C4, C5, C6, C7, C8","Capacitor"
+"330R","AXIAL-0.3","3","R2, R3, R4","Resistor"
+"7_seg_disp","Seven segment display","3","D1, D2, D3",""
+"75R","AXIAL-0.3","1","R1","Resistor"
+"Buzzer","Buzzer","1","LS1","Magnetic Transducer Buzzer"
+"Cap","cap 5mm","1","C2","Capacitor"
+"FSM2JSMLS","Pushbutton","5","S1, S2, S3, S4, S5","FSM2JSMLS -  Tactile Switch, Illuminated, 24 V, 50 mA, 100 gf, SMD, FSMJSM Series"
+"Header 2","SORKAPOCS-2","1","P1","Header, 2-Pin"
+"L7805CV","TO220ABN","1","U1","Positive Voltage Regulator"
+"Plug","pad","1","P2","Plug"
+"SN74LS47N","648-08","3","U2, U4, U5","BCD to 7-Segment Decoder/Driver"
+"STM32F103 breakout board","STM32_Breakout_board","1","U3",""
